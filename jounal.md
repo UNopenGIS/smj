@@ -47,6 +47,11 @@ We will be documenting rules and guidelines for Smart Maps Journal here.
 ### Event
 - Smart Maps Meetup Pacific 3 w/ @ShogoHirasawa
 
+## 2023-06-08
+### Event
+- UN Open GIS Monthly
+-
+
 ## 2023-06-03
 ### Event
 - UNVT Portable Workshop @青山学院大学
@@ -61,8 +66,29 @@ We will be documenting rules and guidelines for Smart Maps Journal here.
 ### Event
 - Smart Maps Meetup Pacific 2 (was called Smart maps International Meetup 2) w/ @albertkun, @yuiseki and @hfu
 - https://github.com/UNopenGIS/7/issues/125
+- [Presentation](https://hackmd.io/@hfu/smi2#/) by @hfu
+
+## 2023-05-11
+### Added
+- Added [Brand Guidelines](https://unopengis.github.io/smartmaps/about/brand) / [ブランドガイドライン](https://unopengis.github.io/smartmaps/ja/about/brand/)
+- https://github.com/UNopenGIS/7/issues/149
+
+## 2023-05-04
+## Event
+- UN Open GIS Monthly meeting
+- [Smart Maps Presentation](https://hackmd.io/@hfu/7-202304#/)
 
 ## 2023-04-14/13
 ### Event
 - Smart Maps Meetup Pacific 1 (was called Smart Maps International Meetup 1)
 - https://github.com/UNopenGIS/7/issues/92
+
+## 2023-03-29
+### Event
+- UN Open GIS Monthly meeting
+- [Smart Maps Presentation](https://hackmd.io/@hfu/dwg7-2023-03#/)
+
+## 2023-01-24
+### Event
+- UN Open GIS Monthly meeting
+- [Smart Maps Presentation](https://hackmd.io/@hfu/dwg7-2023-01#/)
