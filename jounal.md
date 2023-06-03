@@ -38,6 +38,11 @@ We will be documenting rules and guidelines for Smart Maps Journal here.
 ### Event
 - Smart Maps Meetup Atlantic 1
 
+## 2023-06-19/18
+### Event
+- Smart Mapd Documentation Working Meeting
+- https://unopengis.github.io/smartmaps/get-involved/community-meetings/documentation/2023-06-19
+
 ## 2023-06-16
 ### Event
 - Smart Maps Meetup Pacific 3 w/ @ShogoHirasawa
