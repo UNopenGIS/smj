@@ -88,6 +88,8 @@ We will be documenting rules and guidelines for Smart Maps Journal here.
 ## 2023-05-23
 ### Event
 - [Smart Maps Meetup Japan 24](https://github.com/unopengis/7/issues/157)
+### Added
+- [Smart Maps Personas](https://github.com/UNopenGIS/7/issues/158#issuecomment-1558208933)
 
 ## 2023-05-16
 ### Event
