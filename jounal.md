@@ -55,7 +55,7 @@ We will be documenting rules and guidelines for Smart Maps Journal here.
 ## 2023-06-08
 ### Event
 - UN Open GIS Monthly
-- https://hackmd.io/@hfu/smp-2023-06#/
+- [https://hackmd.io/@hfu/smp-2023-06#/](https://hackmd.io/@hfu/2023-06#/)
 
 ## 2023-06-07
 ### Changed
