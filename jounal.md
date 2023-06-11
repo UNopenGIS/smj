@@ -48,9 +48,15 @@ We will be documenting rules and guidelines for Smart Maps Journal here.
 - Smart Maps Documentation Working Meeting
 - https://unopengis.github.io/smartmaps/get-involved/community-meetings/documentation/2023-06-19
 
-## 2023-06-16
+## 2023-06-16/15
 ### Event
 - Smart Maps Meetup Monthly 3 w/ @ShogoHirasawa
+- https://github.com/unopengis/7/issues/180
+
+## 2023-06-13
+### Event
+- Smart Maps Meetup Weekly 27
+- https://github.com/unopengis/7/issues/181
 
 ## 2023-06-08
 ### Event
