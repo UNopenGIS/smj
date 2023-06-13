@@ -43,6 +43,11 @@ We will be documenting rules and guidelines for Smart Maps Journal here.
 - Smart Maps Meetup Offline
 - https://github.com/UNopenGIS/7/issues/150
 
+## 2023-06-20
+### Event
+- Smart Maps Meetup Weekly
+- https://github.com/UNopenGIS/7/issues/183
+
 ## 2023-06-19/18
 ### Event
 - Smart Maps Documentation Working Meeting
